@@ -3,7 +3,7 @@ import random
 
 st.set_page_config(layout="wide")
 st.title('Test Streamlit')
-st.write('Lose Media Society')
+st.write('Lost Media Society')
 
 result1 = st.button("click me!")
 if result1 :
