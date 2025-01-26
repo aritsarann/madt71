@@ -2,7 +2,7 @@ import streamlit as st
 import random
 
 st.title('Test Streamlit')
-st.write('Hello World!')
+st.write('Hello! LMS')
 
 if st.button('Generate Random Number'):
     random_number = random.randint(1, 100)
